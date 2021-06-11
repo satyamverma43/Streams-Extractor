@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @thesatyamxyz
 
 
 class Script(object):
@@ -13,7 +13,7 @@ Send me any video file and extract what you want :).
 
 See <i>help</i> for more details.
 
-© @TroJanzHEX</b>"""
+© @thesatyamxyz</b>"""
 
 
     HELP_MSG = """<b>Hai, Follow these Steps..</b>
@@ -31,7 +31,7 @@ See <i>help</i> for more details.
 
     ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @thesatyamxyz    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
